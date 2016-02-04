@@ -10,6 +10,7 @@
 				"James Hetfield",
 				"David Lee Mustaine",
 				"Taavi \"Dave\" Kase",
+				"Some-Other Name"
 			];
 			
 			foreach ($names as $name) {
