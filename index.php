@@ -9,7 +9,7 @@
 			$names = [
 				"James Hetfield",
 				"David Lee Mustaine",
-				"Taavi-Dave Kase",
+				"Taavi \"Dave\" Kase",
 			];
 			
 			foreach ($names as $name) {
